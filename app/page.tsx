@@ -5,7 +5,7 @@ import CityPicker from "@/components/CityPicker";
 
 export default function Home() {
   return (
-    <main className="text-6xl min-h-screen bg-gradient-to-br from-[#394f68] to-[#00A67E] p-10 flex-col justify-center items-center">
+    <main className="min-h-screen bg-gradient-to-br from-[#394f68] to-[#00A67E] p-10 flex-col justify-center items-center">
         <Card className="max-w-4xl mx-auto">
             <Text className=" text-6xl font-bold text-center mb-10">
                 Weather AI
